@@ -1,0 +1,6 @@
+credentials.json
+creds.json
+token.json
+.idea/
+main
+*.log
